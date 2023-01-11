@@ -25,5 +25,5 @@ La interfaz gráfica es intuitiva y fácil de usar. Una vez abierto el programa,
 
 El código contiene un ejemplo de clase Cliente en la cual se llama a todas las funciones que se encargan de las diferentes funciones de la aplicación, las cuales deben ser desarrolladas y completadas.
 
-# Responsable
+# Creditos
 Jose Maidana
