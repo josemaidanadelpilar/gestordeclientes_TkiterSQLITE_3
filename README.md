@@ -15,7 +15,7 @@ Este proyecto es una interfaz gráfica de usuario desarrollada con Tkinter y uti
 3. Uso de herencia
 # Instalación
 Para correr el proyecto, se requiere tener instalado Python3 y las siguientes librerías de Python:
-
+datetime
 Tkinter
 ttk
 sqlite3
