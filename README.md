@@ -4,7 +4,7 @@ Este proyecto es una interfaz gráfica de usuario desarrollada con Tkinter y uti
 1. Agregar clientes
 2. Agregar presupuestos con pagos a cuotas
 3. Ver historial de pagos
-4. 4.Cancelar cuotas
+4. Cancelar cuotas
 6. Calcular comisiones ganadas por cada venta generada
 7. Treeview para visualizar pagos y ventas
 8. Filtro de clientes por fecha
